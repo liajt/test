@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 如果你不确定你需要检测的设备vendor-id和product-id，可以所有的参数都为空，将获得所有已连接的USB设备。
+    否则请对应上相应参数。 -->
+    <usb-device
+        class=""
+        product-id=""
+        protocol=""
+        subclass=""
+        vendor-id="" />
+</resources>
